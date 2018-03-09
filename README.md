@@ -17,8 +17,6 @@ This timepiece includes:
 
 ## Demo (Coming Soon)
 
-## Walkthrough (Coming Soon)
-
 ### Credits
 [A Lange & Söhne](https://www.alange-soehne.com)
 
